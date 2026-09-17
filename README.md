@@ -114,60 +114,70 @@ Adaptive AI learning platform designed for personalized education using intellig
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="48"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Java" width="48"/>
+  <img src="https://skillicons.dev/icons?i=python" title="C" width="48"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" width="48"/>
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL / MySQL" width="48"/>
 </p>
-
-### AI / Machine Learning
 
 ### 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="48"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="48"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" title="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Regression-2563EB?style=flat-square" title="Regression"/>
+  <img src="https://img.shields.io/badge/Classification-16A34A?style=flat-square" title="Classification"/>
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-7C3AED?style=flat-square" title="Time Series Forecasting"/>
+  <img src="https://img.shields.io/badge/NLP-EA580C?style=flat-square" title="Natural Language Processing"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Regression-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Classification-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-EA580C?style=for-the-badge"/>
+### 🧠 LLMs & Agentic AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" title="OpenAI"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" title="Google Gemini"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square" title="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square" title="Retrieval-Augmented Generation"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square" title="Agentic AI"/>
+  <img src="https://img.shields.io/badge/Vector%20Database-4B0082?style=flat-square" title="Vector Database"/>
 </p>
 
-### LLMs & Agentic AI
+### 🎨 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-Agentic_AI-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=flat-square"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" width="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="48"/>
 </p>
 
-### Frontend
+### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" width="48"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="48"/>
 </p>
 
-### Backend
+### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="48"/>
 </p>
 
-### Database
+### 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" width="48"/>
 </p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github,docker,vscode"/>
-</p>
-
 
