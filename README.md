@@ -15,7 +15,7 @@ Building AI systems for <b>Healthcare</b>, <b>Optimization</b>, <b>Agentic AI</b
   🎓 Final Year B.Tech CSE (Artificial Intelligence) Student <br/>
   📍 India
 </p>
----
+
 
 ## 🌍 Connect With Me
 
@@ -28,7 +28,7 @@ Building AI systems for <b>Healthcare</b>, <b>Optimization</b>, <b>Agentic AI</b
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   ---
-  # 👩‍💻 About Me
+  ## 👩‍💻 About Me
 
 I'm passionate about designing AI-powered systems that solve real-world problems across healthcare, optimization, and intelligent automation.
 
@@ -38,8 +38,8 @@ I'm passionate about designing AI-powered systems that solve real-world problems
 - 🌱 Exploring **Multimodal AI, RAG Systems, Agentic AI, LLMs, and Healthcare AI**.
 - 🌍 Looking for AI Research, Machine Learning Engineering and Global Internship opportunities.
 
----
-# 🚀 Featured Projects
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -112,6 +112,56 @@ Adaptive AI learning platform designed for personalized education using intellig
 </td>
 </tr>
 </table>
----
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LightGBM-006600?style=flat-square"/>
+</p>
+
+### LLMs & Agentic AI
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-Agentic_AI-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=flat-square"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+</p>
 
 
