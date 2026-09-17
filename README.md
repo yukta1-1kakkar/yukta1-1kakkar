@@ -21,11 +21,11 @@ Building AI systems for <b>Healthcare</b>, <b>Optimization</b>, <b>Agentic AI</b
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yukta-kakkar-735342295/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:yukta09kakkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   
   ## 👩‍💻 About Me
@@ -45,9 +45,9 @@ I'm passionate about designing AI-powered systems that solve real-world problems
   <tr valign="top">
     <td width="50%" valign="top">
 
-### 🏆 DemDoctor (SIH 2026 Grand Finale)
+### 🏆 DemDoctor (SIH 2025 Grand Finale)
 
-AI-powered multilingual dementia screening platform built for **Smart India Hackathon 2026 Grand Finale**.
+AI-powered multilingual dementia screening platform built for **Smart India Hackathon 2025 Grand Finale**.
 
 - Speech Analysis
 - Cognitive Assessment
