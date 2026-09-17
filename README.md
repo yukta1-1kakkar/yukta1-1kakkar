@@ -21,13 +21,16 @@ Building AI systems for <b>Healthcare</b>, <b>Optimization</b>, <b>Agentic AI</b
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yukta-kakkar-735342295/">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-
   <a href="mailto:yukta09kakkar@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
-  
+  <a href="https://github.com/yukta1-1kakkar">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+</p>
+
   ## 👩‍💻 About Me
 
 I'm passionate about designing AI-powered systems that solve real-world problems across healthcare, optimization, and intelligent automation.
