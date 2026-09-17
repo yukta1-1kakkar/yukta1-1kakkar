@@ -1,4 +1,6 @@
-<img width="1600" height="639" alt="WhatsApp Image 2026-09-17 at 12 27 16 PM" src="https://github.com/user-attachments/assets/4e3b50c9-269f-4935-9b3b-5669aec1668e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e3b50c9-269f-4935-9b3b-5669aec1668e" width="100%" alt="Yukta Kakkar AI Banner"/>
+</p>
 ## Hi there 👋
 
 <!--
