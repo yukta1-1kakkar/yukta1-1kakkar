@@ -26,9 +26,6 @@ Building AI systems for <b>Healthcare</b>, <b>Optimization</b>, <b>Agentic AI</b
   <a href="mailto:yukta09kakkar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
-  <a href="https://github.com/yukta1-1kakkar">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
 </p>
 
   ## 👩‍💻 About Me
