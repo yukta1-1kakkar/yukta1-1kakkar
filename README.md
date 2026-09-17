@@ -21,13 +21,13 @@ Building AI systems for <b>Healthcare</b>, <b>Optimization</b>, <b>Agentic AI</b
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yukta-kakkar-735342295/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:yukta09kakkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  ---
+  
   ## 👩‍💻 About Me
 
 I'm passionate about designing AI-powered systems that solve real-world problems across healthcare, optimization, and intelligent automation.
@@ -42,23 +42,23 @@ I'm passionate about designing AI-powered systems that solve real-world problems
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
+  <tr valign="top">
+    <td width="50%" valign="top">
 
-### 🏆 DemDoctor (SIH 2025 Grand Finale)
+### 🏆 DemDoctor (SIH 2026 Grand Finale)
 
-AI-powered multilingual dementia screening platform built for **Smart India Hackathon 2025 Grand Finale**.
+AI-powered multilingual dementia screening platform built for **Smart India Hackathon 2026 Grand Finale**.
 
 - Speech Analysis
 - Cognitive Assessment
 - Multilingual Screening
 - Risk Prediction Dashboard
 
-**Tech:** Python • FastAPI • React • MongoDB • XGBoost • Logistic Regression
+**Tech:** Python • FastAPI • React • MongoDB • Logistic Regression • Classification
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Genesis Engine
 
@@ -74,10 +74,10 @@ Evolutionary AI optimization framework for solving complex combinatorial optimiz
 **Tech:** Python • Evolutionary Algorithms • Neural Networks • Reinforcement Learning
 
 </td>
-</tr>
+  </tr>
 
-<tr>
-<td>
+  <tr valign="top">
+    <td width="50%" valign="top">
 
 ### 📈 Forecasting Pharma
 
@@ -86,16 +86,15 @@ End-to-end pharmaceutical forecasting framework developed during my Machine Lear
 - ARIMA
 - Prophet
 - Holt-Winters
-- XGBoost
-- LightGBM
+- Machine Learning Forecasting
 - Confidence Interval Generation
 - Best Model Framework
 
-**Tech:** Python • Pandas • Scikit-Learn • Plotly
+**Tech:** Python • Pandas • Scikit-Learn • Time Series Forecasting • Regression
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
 ### 🌱 EvolvED
 
@@ -105,12 +104,12 @@ Adaptive AI learning platform designed for personalized education using intellig
 - Agentic AI Workflow
 - Multimodal Learning Support
 - Progress Tracking
-- Neurodivergent-Friendly Learning Experience
+- Adaptive Learning Experience
 
 **Tech:** Python • FastAPI • React • LLMs • Agentic AI
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ## 🛠 Tech Stack
@@ -118,16 +117,23 @@ Adaptive AI learning platform designed for personalized education using intellig
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql"/>
 </p>
 
 ### AI / Machine Learning
 
+### 🤖 AI / Machine Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LightGBM-006600?style=flat-square"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Regression-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Classification-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-EA580C?style=for-the-badge"/>
 </p>
 
 ### LLMs & Agentic AI
@@ -161,7 +167,7 @@ Adaptive AI learning platform designed for personalized education using intellig
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+  <img src="https://skillicons.dev/icons?i=github,docker,vscode"/>
 </p>
 
 
